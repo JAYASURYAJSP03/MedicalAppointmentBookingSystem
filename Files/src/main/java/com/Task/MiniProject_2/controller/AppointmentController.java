@@ -1,7 +1,6 @@
 package com.Task.MiniProject_2.controller;
 
 import com.Task.MiniProject_2.entity.Doctor;
-import com.Task.MiniProject_2.entity.Medication;
 import com.Task.MiniProject_2.service.AppointmentService;
 import com.Task.MiniProject_2.entity.Appointment;
 import com.Task.MiniProject_2.service.DoctorService;
@@ -11,7 +10,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
-import java.util.ArrayList;
+
 import java.util.List;
 
 @Controller
