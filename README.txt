@@ -1,3 +1,28 @@
+*************USE THIS DOCTOR CREDENTIALS FOR ADD,UPDATE,DELETE MEDICATIONS!!!!************
+
+username:  jsp  or jsp@gmail.com                // This username contains "ROLE_DOCTOR"
+
+password:  jsp@123
+
+
+*******************************************************************************************
+
+username:  bala  or bala@gmail.com                // This username contains "ROLE_DOCTOR"
+
+password:  bala@123
+
+
+*******************************************************************************************
+
+
+
+
+***IF YOU ARE A NEW REGISTERED USER YOUR CREDENTIALS WILL AUTOMATICALLY ASSIGNED TO ROLE = "ROLE_PATIENT" ***
+
+************** HERE YOU CAN ONLY ABLE TO VIEW THE MEDICATIONS ASSIGNED TO YOUR APPOINTMENT ******************
+
+
+
 Medical Appointment Management System
 This is a hospital management system that enables patients to book appointments with doctors, view appointment details, and access prescribed medications. This system provides a user-friendly interface to manage medical appointments and records.
 
